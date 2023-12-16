@@ -3,7 +3,7 @@
 		center/cover no-repeat;
 }
 
-.tutorialContainer__890ea .svg_ad7356 {
+.tutorialContainer-1pL9QS .svg-2ifYOU {
 	background: url('https://raw.githubusercontent.com/AccraZed/YoRHA-UI-BetterDiscord/master/assets/icons/home_light-theme.png')
 		center/contain no-repeat;
 }
@@ -24,6 +24,11 @@
 		radial-gradient(transparent 50%, rgba(78, 75, 66, 0.4));
 	user-select: none;
 	pointer-events: none;
+}
+
+.theme-dark .mentioned-Tre-dv a.anchor-1MIwyf {
+	background-color: var(--color-high-trans);
+	border-radius: 0.25em;
 }
 
 ::selection {

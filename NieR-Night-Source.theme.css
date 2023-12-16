@@ -20,10 +20,11 @@
  * YMM   ""`   "YUMMMMMP" "YUMMMMMP"MMMM   "W" YMM   ""`  `""*UMM  """"YUMMMMMMMP"`  
  */
 
-@import url('https://accrazed.github.io/YoRHA-UI-BetterDiscord/font/stylesheet.css'); /* Font */
-@import url('https://accrazed.github.io/YoRHA-UI-BetterDiscord/NieR-Cursor.css'); /* Cursor */
-@import url('https://accrazed.github.io/YoRHA-UI-BetterDiscord/NieR-Import.theme.css'); /* Main File */
-@import url('https://accrazed.github.io/YoRHA-UI-BetterDiscord/NightImport.theme.css'); /* Night Part of Theme */
+
+ @import url("https://leparadisier.github.io/BetterDiscord-NieR-UI-font/font/stylesheet.css"); /* Font */
+ @import url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/NieR-Import.theme.css"); /* Main File */
+ @import url("https://leparadisier.github.io/BetterDiscord-NieR-UI-font/NightImport.theme.css"); /* Light Part of Theme */
+
 
 /* GLOBAL VARIABLES */
 :root {
