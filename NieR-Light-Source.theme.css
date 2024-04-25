@@ -21,9 +21,9 @@
  * YMM   ""`   "YUMMMMMP" "YUMMMMMP"MMMM   "W" YMM   ""`  `""*UMM  """"YUMMMMMMMP"`  
  */
 
- @import url("https://leparadisier.github.io/BetterDiscord-NieR-UI-font/font/stylesheet.css"); /* Font */
+ @import url("https://leparadisier.github.io/YoRHA-UI-BetterDiscord/font/stylesheet.css"); /* Font */
  @import url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/NieR-Import.theme.css"); /* Main File */
- @import url("https://leparadisier.github.io/BetterDiscord-NieR-UI-font/LightImport.theme.css"); /* Light Part of Theme */
+ @import url("https://leparadisier.github.io/YoRHA-UI-BetterDiscord/LightImport.theme.css"); /* Light Part of Theme */
  
  /* GLOBAL VARIABLES */
  :root {
@@ -36,14 +36,3 @@
 	 --color-alert-trans: rgba(205, 102, 77, 0.7);
 	 --nier-font: robotoregular;
  }
-
- /*fix the font */
-
- .item__48dda {
-    position: relative;
-    font-size: 16px;
-    line-height: 20px;
-    cursor: pointer;
-    font-weight: 700;
-}
-
